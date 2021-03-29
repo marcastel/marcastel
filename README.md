@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Ask me anything (AMA)
+
+### [Ask a question](../../discussions/new?category=ama) &mdash; [Read questions](../../discussions/categories/ama)
+
