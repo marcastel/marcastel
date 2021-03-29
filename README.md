@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Ask me anything (AMA)
 
-### [Ask a question](../../discussions/new?category=ama) &mdash; [Read questions](../../discussions/categories/ama)
+- Feel free to [ask me anything](../../discussions/new?category=ama) (see pending questions on the [AMA board](../../discussions/categories/ama))
 
