@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - Feel free to [ask me anything](../../discussions/new?category=ama) (see pending questions on the [AMA board](../../discussions/categories/ama))
 
 - Open discussions:
+  - [Embedding KornShell support in Git](https://github.com/marcastel/marcastel/discussions/8)
   - [Modernising UNIX manpages](https://github.com/marcastel/marcastel/discussions/7)
   - [KornShell build system](https://github.com/marcastel/marcastel/discussions/6)
