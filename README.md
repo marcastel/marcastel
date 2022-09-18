@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+A lifelong computer science boffin, document and knowledge management pioneer, standards and best practices author, application innovation swotter, infrastructure and security management veteran, Fortune 100 business consultant, coach, and mentor. Or at least that is what I like to believe :-)
+
 
 - Feel free to [ask me anything](../../discussions/new?category=ama) (see pending questions on the [AMA board](../../discussions/categories/ama))
 
